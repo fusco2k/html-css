@@ -1,0 +1,10 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 10%;
+    border: 20px groove crimson;
+    background-image: url("../../puppy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
