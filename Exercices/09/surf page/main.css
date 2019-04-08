@@ -1,0 +1,30 @@
+img{
+    width: 40%;
+    margin: 0 auto;
+    background-image: url("surf page/surf.jpg");
+    border-radius: 100%;
+    border: 15px groove yellow;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+}
+html{
+    background-color: #0ebfe9;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: red;
+}
+
+body{
+    margin: 0 auto;
+    box-sizing: border-box;
+    border: 5px solid;
+    padding: 20px;
+    width: 60%;
+    background-color: #00C957;
+}
