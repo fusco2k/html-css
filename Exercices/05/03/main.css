@@ -1,0 +1,11 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2rem;
+}
+
+#emph2{
+    font-weight: 400;
+}
+#emph3{
+    font-weight: 700;
+}
