@@ -1,0 +1,12 @@
+*{
+    font-size: 1.2rem;
+    text-align: center;
+}
+header, footer, aside, article, nav{
+    padding: 1rem;
+    border: 2px solid black;
+    background-color: bisque
+}
+p{
+    text-align: justify;
+}

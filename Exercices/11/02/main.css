@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    border:0;
+    padding:0;
+}
+body{
+    display: flex;
+    border:2px solid black;
+    flex-flow: column;
+    align-items: center;
+}
+div{
+    border:2px solid salmon;
+    background-color: sandybrown;
+    height: 200px;
+    width: 200px;
+}
+.div2{
+    position: relative;
+    top:1rem;
+    left:2rem;
+}

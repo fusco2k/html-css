@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+    line-height: 3rem;
+    color: black
+}
+
+nav{
+    border: 2px solid red;
+}
+
+main{
+    border: 2px solid red;
+}

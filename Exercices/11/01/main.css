@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    border:0;
+    padding:0;
+}
+footer{
+    position: fixed;
+    bottom:0;
+    border:2px solid salmon;
+    background-color: sandybrown;
+    height: 40px;
+    width: 100%;
+}

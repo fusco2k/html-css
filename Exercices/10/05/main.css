@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+header, article, aside, footer, nav{
+    width: 100%
+}

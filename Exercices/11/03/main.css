@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    border:0;
+    padding:0;
+}
+body{
+    border:2px solid black;
+    height: 500px
+}
+.div1{
+    position: relative;
+    top: 10px;
+    left: 10px;
+
+    border:2px solid salmon;
+    background-color: sandybrown;
+    height: 300px;
+    width: 300px;
+}
+.div2{
+    position: absolute;
+    top:13rem;
+    left:12rem;
+    border:2px solid red;
+    background-color: hotpink;
+    height: 50px;
+    width: 50px;
+}

@@ -1,0 +1,24 @@
+*{
+    border: 0;
+    margin:0;
+    padding:0;
+}
+
+body{
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+nav{
+    position: absolute;
+    border: 2px solid red;
+    height: 400px;
+    width: 150px;
+}
+main{ 
+    margin-left: 150px;   
+    border: 2px solid black;
+    height:400px;
+    width: 450px;
+}
